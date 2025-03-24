@@ -517,9 +517,11 @@ Defines the UI styling:
 ### Grid view image
 
 - Desktop
+
 ![Grid View (Desktop)](./assets/images/grid-view.png)
 
 - Mobile
+  
 ![Grid View (Mobile)](./assets/images/mobile-grid-view.jpg)
 
 ## Future Improvements
