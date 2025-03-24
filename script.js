@@ -30,7 +30,7 @@ function displayBooks(bookList) {
     console.log(container.className)
     bookList.forEach(book => {
         const { title, authors, publisher, publishedDate, imageLinks, infoLink } = book.volumeInfo;
-        const thumbnail = imageLinks?.thumbnail || "./assets/images/image.png";
+        const thumbnail = imageLinks?.thumbnail || "./assets/images/placeholder.png";
 
         const bookDiv = document.createElement("div");
         bookDiv.className = "book";
