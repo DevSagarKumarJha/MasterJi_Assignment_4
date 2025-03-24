@@ -507,9 +507,11 @@ Defines the UI styling:
 ### List view image
 
 - Desktop
+
 ![List View (Desktop)](./assets/images/list-view.png)
 
 - Mobile
+
 ![List View (Mobile)](./assets/images/mobile-list-view.jpg)
 
 ### Grid view image
